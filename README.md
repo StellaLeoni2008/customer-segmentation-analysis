@@ -1,6 +1,6 @@
 <h1 align="center"> 📊 Grupos de interesse para marketing </h1>
 <p align="center">
-<strong>Acesse o projeto:</strong><br> <a href="https://clusterizacao-grupos-de-marketing-atqf9tnxxpgstp2svpzpcq.streamlit.app/">Clique aqui para visualizar</a> </p> <p align="center"> 📸 <strong>Preview do projeto:</strong><br> <img width="500" height="700" alt="App Streamlit_page-0001" src="https://github.com/user-attachments/assets/96de6488-bcb0-45a4-a82b-4449cbbb4fb9" />
+<strong>Preview do projeto:</strong><br> <img width="500" height="700" alt="App Streamlit_page-0001" src="https://github.com/user-attachments/assets/96de6488-bcb0-45a4-a82b-4449cbbb4fb9" />
 
 
 ## 💻 Linguagens usadas no projeto
